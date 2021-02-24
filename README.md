@@ -6,7 +6,7 @@
 * Constantly studying [Kubernetes](https://kubernetes.io/)
 * [Ansible](https://www.ansible.com/) and [Terraform](https://www.terraform.io/) are a way of life.
 * So is yaml...
-* Also studying [ROS2](https://index.ros.org/doc/ros2/) because robots are pretty fricking cool.
+* Also studying [ROS2](https://index.ros.org/doc/ros2/) because robots are pretty cool.
 * Quietly obsessed with messaging systems such as [Apache Pulsar](https://pulsar.apache.org/) and [Kafka](https://kafka.apache.org/)
 * Background in webrtc, freeswitch, telephony in general.
 * My strongest opinion: You probably need more [postgres](https://www.postgresql.org/) in your life.
